@@ -24,18 +24,18 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop View:
-![Alt text](/screenshots/screenshot-desktop-view.png?raw=true)
+Desktop View:  
+![Alt text](/screenshots/screenshot-desktop-view.png?raw=true)  
 
-Mobile View:
-![Alt text](/screenshots/screenshot-mobile-view.png?raw=true)
+Mobile View:  
+![Alt text](/screenshots/screenshot-mobile-view.png?raw=true)  
 
 
 
 ### Links
 
 - Solution URL: [Github Page](https://github.com/zoldyk15/sunnyside-agency)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://zoldyk15.github.io/sunnyside-agency/](https://zoldyk15.github.io/sunnyside-agency/)
 
 ## My process
 
