@@ -8,6 +8,11 @@
 	box-sizing: border-box;
 }
 
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
 #wrapper{
 	max-width: 1440px;
 	margin: auto;
@@ -181,6 +186,7 @@
 	font-family: frauncesblack;
 	color: hsl(212, 27%, 19%);
 	position: relative;
+	cursor: pointer;
 }
 
 #section2 #graphic-img h1,
